@@ -1,4 +1,4 @@
-# Employee_Department_DAO
+# Department_Employee_DAO
 
 Store data in MySQL - Using the Concept of Data Access Object - DAO.
 
